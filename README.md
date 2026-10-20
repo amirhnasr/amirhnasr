@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Amirhossein Nasrollahzadeh
 
-<!--
-**amirhnasr/amirhnasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Computer Engineering Graduate | Networking & Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a computer science graduate interested in computer networking, network security, and infrastructure automation.
+
+I'm currently developing my practical skills through hands-on exercises, technical experiments, and structured documentation.
+
+## Areas of Interest
+
+- Computer Networking
+- Network Security
+- Linux and System Administration
+- Python and Automation
+
+## Currently Learning
+
+- Networking fundamentals and troubleshooting
+- Network traffic analysis
+- Git and technical documentation
+
+## Current Goals
+
+Building practical projects, strengthening my technical foundations, and documenting my learning journey.
